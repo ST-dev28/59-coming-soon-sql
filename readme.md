@@ -5,7 +5,7 @@
 
 # Coming soon
 
-_28 group project_
+COMMING SOON SQL
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
@@ -35,4 +35,4 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 ## Authors
 
-[Rimantas](https://github.com/belauzas)
+[Rimantas](https://github.com/ST-dev28)

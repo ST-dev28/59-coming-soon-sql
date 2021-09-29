@@ -35,4 +35,4 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 ## Authors
 
-[Rimantas](https://github.com/ST-dev28)
+[Sandra](https://github.com/ST-dev28)
